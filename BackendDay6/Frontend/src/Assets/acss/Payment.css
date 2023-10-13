@@ -1,0 +1,42 @@
+/* Styles for the payment page */
+.payment-page {
+    background-color: white;
+    /* Blue background color */
+    text-align: center;
+    height: 100vh;
+    /* Full viewport height */
+    color: black;
+    /* White text color */
+    font-family: 'Arial', sans-serif;
+    /* Use a modern font */
+}
+
+/* Styles for the payment information */
+.pass {
+    border: 2px solid #555;
+    /* Slightly thicker border and darker gray */
+    margin: 20px;
+    /* Wider margin for spacing */
+    padding: 20px;
+    /* More padding for better readability */
+    text-align: center;
+    /* Center-align text */
+    background-color: #f1f1f1;
+    /* Light gray background color */
+    color: #333;
+    /* Dark text color */
+}
+
+/* Styles for a happy message */
+.happy {
+    margin: 50px auto;
+    /* Center the element horizontally */
+    font-size: 24px;
+    /* Larger font size */
+    font-weight: bold;
+    /* Bolder text */
+    font-family: 'Arial', sans-serif;
+    /* Use a modern font */
+    color: black;
+    /* Green text color */
+}
